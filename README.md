@@ -1,7 +1,7 @@
 # Defect-Prediction-in-Chip-Manufacturing
 Lithography defect prediction for microchip manufacturing optimization with machine learning model
 
-## Lithography in microchips manufacturing
+## lithography process in chips manufacturing
 A lithography (more formally known as ‘photolithography’) system is essentially a projection system. 
 Light is projected through a blueprint of the pattern that will be printed (known as a ‘mask’ or ‘reticle’). 
 The chips are made using a lithography process, which involves creating sophisticated patterns on a silicon wafer. 
