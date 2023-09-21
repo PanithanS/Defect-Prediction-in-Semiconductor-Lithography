@@ -13,5 +13,10 @@ Chips are made using lithography, which involves creating intricate patterns on 
 ## Lithography process control
 ..more content will be added
 
+## Data visualization
+![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/4e8a6cf6-af67-4b77-ad24-067e9a72130e)
+..more content will be added
+
+
 ## Reference
 - Güler, Sila. "Bayesian optimization for lithography process control strategy selection: optimal control advisor." (2020).
