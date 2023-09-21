@@ -14,7 +14,8 @@ Chips are made using lithography, which involves creating intricate patterns on 
 ..more content will be added
 
 ## Data visualization
-![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/4e8a6cf6-af67-4b77-ad24-067e9a72130e)
+![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
+
 ..more content will be added
 
 
