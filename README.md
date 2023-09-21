@@ -11,4 +11,4 @@ Chips are made using lithography, which involves creating intricate patterns on 
 ..more content will be added
 
 ## Reference
-- Güler, S. (2020). Bayesian optimization for lithography process control strategy selection: optimal control advisor. Technische Universiteit Eindhoven.
+- Güler, Sila. "Bayesian optimization for lithography process control strategy selection: optimal control advisor." (2020).
