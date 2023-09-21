@@ -1,4 +1,4 @@
-# Defect Prediction in Chip Manufacturing
+# Defect prediction in chip manufacturing for yield optimization
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/8ad89b43-b14d-46a4-8682-52d5ddad2908)
 
