@@ -1,6 +1,6 @@
 # Defect-Prediction-in-Chip-Manufacturing
 
-![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/7b807d8e-d397-4a4a-8d4b-d508bc16c15b)
+![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/8ad89b43-b14d-46a4-8682-52d5ddad2908)
 
 Over the past few decades, electronic devices such as computers, tablets, and smartphones have become integral to our daily lives. These devices function on the sophisticated electronic circuits they contain. Notably, electronic circuits have steadily decreased in size since the inception of semiconductors in 1940. Presently, we have silicon-based integrated circuits (ICs), often referred to as chips, packing more than 10,000 transistors into just a few square millimeters of space. The production of these chips involves a fascinating process. Initially, they are crafted on silicon wafers, which are circular thin slices of silicon material. Afterward, the wafer is carefully chopped into individual chips. The utilization of advanced lithography tools is the key to crafting these sophisticated electronic circuits, therefore it is crucial to optimize process control to reduce defects for high-yield chip manufacturing.
 
