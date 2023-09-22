@@ -36,9 +36,9 @@ The chip circuit pattern is made using lithography, which creates precise and so
 1. Exposure energy (Energy)
 2. Focal length (Focus)
 
-Therefore, to optimize manufacturing yield by focusing on the lithography process, it is required to explore the relationship between light exposure parameters and the die-chips yields.
+Therefore, to optimize manufacturing yield by focusing on the lithography process, it is required to explore the relationship between light exposure parameters and the good/die chips yields.
 
-# Exposure parameters and die chips
+# Exposure parameters and defective chips
 The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as the two axis variables and uses different colors for the two labels (Die chips/Good chips).
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
