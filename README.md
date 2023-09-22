@@ -41,7 +41,7 @@ The chip circuit pattern is made using lithography, which creates precise and so
 ## Problem visualization with data for the exposure parameters and die chips
 The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as the two axis variables and uses different colors for the two labels (Die chips/Good chips). 
 
-**Purpose of this work**: We want to classify the data between die-chips and good chips using machine-learning models
+**Purpose of this work** is to classify the data between die-chips and good chips using machine-learning models
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
 
