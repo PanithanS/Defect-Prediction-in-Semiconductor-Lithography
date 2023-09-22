@@ -43,8 +43,12 @@ The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as 
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
 
-# Results: defect prediction with Multilayer Perceptron (MLP), Supporting Vector Machine(SVM), and Gaussian Process(GP)
+# Results: defect prediction using machine learning
 In this work, we build several models that predict the die-chips and good chips using machine learning.
+- Multilayer Perceptron (MLP)
+- Supporting Vector Machine(SVM)
+- Gaussian Process(GP)
+
 
 ## Reference
 - Güler, Sila. "Bayesian optimization for lithography process control strategy selection: optimal control advisor." (2020).
