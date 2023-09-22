@@ -2,7 +2,7 @@
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/8ad89b43-b14d-46a4-8682-52d5ddad2908)
 
-Over the past few decades, electronic devices such as computers, tablets, and smartphones have become integral to our daily lives. These devices function on the sophisticated electronic circuits they contain. Notably, electronic circuits have steadily decreased in size since the inception of semiconductors in 1940. Presently, we have silicon-based integrated circuits (ICs), often referred to as chips, packing more than 10,000 transistors into just a few square millimeters of space. The production of these chips involves a fascinating process. Initially, they are crafted on silicon wafers, which are circular thin slices of silicon material. Afterward, the wafer is carefully chopped into individual chips. The utilization of advanced lithography tools is the key to crafting these sophisticated electronic circuits, therefore it is crucial to optimize lithography process control to reduce defects, as here we call "die chips", to increase manufacturing yield.
+In recent decades, electronic devices like computers, tablets, and smartphones have become essential, thanks to ever-shrinking electronic circuits. Silicon-based integrated circuits, or chips, now squeeze over 10,000 transistors into a few square millimeters. The chip-making process starts on silicon wafers, sliced into chips. Advanced lithography tools are crucial for precise control and defect reduction, increasing manufacturing yield
 
 # Overview of the semiconductor manufacturing process
 
