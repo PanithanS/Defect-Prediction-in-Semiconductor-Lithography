@@ -29,14 +29,17 @@ Ion implantation introduces dopant ions (atoms of different elements) into the s
 These steps collectively form the basis for semiconductor manufacturing, enabling the creation of intricate electronic components found in a wide range of devices, from microchips in computers to sensors in smartphones.
 
 
-# Lithography process optimization: optimizing light exposure parameters
+# Lithography process: light exposure parameters
 
 The chip circuit pattern is made using lithography, which creates precise and sophisticated on a silicon wafers using masks. The well-optimized lithography system is expected to yield a high percentage of chips that function correctly within one wafer. Therefore, the lithography-involved parameter needs to be optimized, accordingly, there are two crucial parameters in the exposure process that need to be controlled to get a "good chip":
 
 1. Exposure energy (Energy)
 2. Focal length (Focus)
 
-## Dataset visualization: exposure parameters and die chips
+# Light exposure parameters optimization
+
+## Data visualization for the exposure parameters and die chips
+We will use a scatter plot with exposure energy (mJ) and focal length (nm) as the two axis variables and use different colors for the two labels (Die chips/no defect).
 
 
 
