@@ -10,10 +10,12 @@ Over the past few decades, electronic devices such as computers, tablets, and sm
 
 Chips are made using lithography, which involves creating intricate patterns on a silicon wafer using masks. This process is essential for manufacturing microchips used in various electronic devices. Lithography uses light to transfer these patterns onto the wafer through masks, allowing for the precise creation of transistors and interconnections that make up the integrated circuit. This precise patterning is crucial for the chip to function correctly, making lithography with masks a fundamental step in microchip manufacturing.
 
-## Lithography process control
-..more content will be added
+## Exposure optimization
+Two parameters in exposure need to be considered:
+1. Exposure energy (Energy)
+2. Focal length (Focus)
 
-## Data visualization
+## Dataset visualization: exposure parameters and die chips
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
 
 ..more content will be added
