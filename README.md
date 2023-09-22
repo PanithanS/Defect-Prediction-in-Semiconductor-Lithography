@@ -29,15 +29,17 @@ Ion implantation introduces dopant ions (atoms of different elements) into the s
 These steps collectively form the basis for semiconductor manufacturing, enabling the creation of intricate electronic components found in a wide range of devices, from microchips in computers to sensors in smartphones.
 
 
-## Exposure optimization
+# Lithography process optimization: optimizing light exposure parameters
 
-The chip circuit pattern is made using lithography, which involves creating intricate patterns on a silicon wafer using masks. This process is essential for manufacturing microchips used in various electronic devices. Lithography uses light to transfer these patterns onto the wafer through masks, allowing for the precise creation of transistors and interconnections that make up the integrated circuit. This precise and sophisticated patterning is crucial to make the chip function correctly.
+The chip circuit pattern is made using lithography, which creates precise and sophisticated on a silicon wafers using masks. The well-optimized lithography system is expected to yield a high percentage of chips that function correctly within one wafer. Therefore, the lithography-involved parameter needs to be optimized, accordingly, there are two crucial parameters in the exposure process that need to be controlled to get a "good chip":
 
-Two parameters in exposure need to be considered:
 1. Exposure energy (Energy)
 2. Focal length (Focus)
 
 ## Dataset visualization: exposure parameters and die chips
+
+
+
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
 
 ..more content will be added
