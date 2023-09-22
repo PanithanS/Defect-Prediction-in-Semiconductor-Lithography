@@ -4,7 +4,7 @@
 
 In recent decades, electronic devices like computers, tablets, and smartphones have become essential, thanks to ever-shrinking electronic circuits. Silicon-based integrated circuits, or chips, now squeeze over 10,000 transistors into a few square millimeters. The chip-making process starts on silicon wafers, sliced into chips. Advanced lithography tools are crucial for precise control and defect reduction, increasing manufacturing yield
 
-# Overview of the semiconductor manufacturing process
+# Manufacturing processes
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2cd32c31-cbe4-467e-b74b-80cc5b0230e0)
 
