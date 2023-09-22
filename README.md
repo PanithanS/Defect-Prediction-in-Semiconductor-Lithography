@@ -39,7 +39,7 @@ The chip circuit pattern is made using lithography, which creates precise and so
 # Light exposure parameters optimization
 
 ## Data visualization for the exposure parameters and die chips
-We will use a scatter plot with exposure energy (mJ) and focal length (nm) as the two axis variables and use different colors for the two labels (Die chips/no defect).
+We will use a scatter plot with exposure energy (mJ) and focal length (nm) as the two axis variables and use different colors for the two labels (Die chips/Good chips).
 
 
 
