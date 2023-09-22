@@ -23,20 +23,16 @@ Lithography is a critical step for defining the precise patterns and structures 
 - **Etching**
 Etching is used to remove specific material layers from the wafer's surface, precisely following the patterns defined in the previous lithography step. It is often done using chemical or plasma processes.
 
-- Ion Implantation
+- **Ion Implantation**
 Ion implantation introduces dopant ions (atoms of different elements) into the semiconductor material, altering its electrical properties. This process is crucial for creating the desired conductivity and functionality in semiconductor devices.
 
 These steps collectively form the basis for semiconductor manufacturing, enabling the creation of intricate electronic components found in a wide range of devices, from microchips in computers to sensors in smartphones.
 
 
-
-
-
-
-
-Chips are made using lithography, which involves creating intricate patterns on a silicon wafer using masks. This process is essential for manufacturing microchips used in various electronic devices. Lithography uses light to transfer these patterns onto the wafer through masks, allowing for the precise creation of transistors and interconnections that make up the integrated circuit. This precise and sophisticated patterning is crucial to make the chip function correctly.
-
 ## Exposure optimization
+
+The chip circuit pattern is made using lithography, which involves creating intricate patterns on a silicon wafer using masks. This process is essential for manufacturing microchips used in various electronic devices. Lithography uses light to transfer these patterns onto the wafer through masks, allowing for the precise creation of transistors and interconnections that make up the integrated circuit. This precise and sophisticated patterning is crucial to make the chip function correctly.
+
 Two parameters in exposure need to be considered:
 1. Exposure energy (Energy)
 2. Focal length (Focus)
