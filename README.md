@@ -8,20 +8,19 @@ Over the past few decades, electronic devices such as computers, tablets, and sm
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2cd32c31-cbe4-467e-b74b-80cc5b0230e0)
 
-- Wafer Manufacturing
-
+- **Wafer Manufacturing**
 This is the initial step where silicon wafers are created from a single crystal of silicon. Wafers are thin, flat, and typically round substrates used as the foundation for semiconductor devices.
 
-- Wafer Oxidation
+- **Wafer Oxidation**
 In this process, a thin layer of silicon dioxide (SiO2) is grown or deposited onto the wafer's surface. This oxide layer serves as an insulator and is crucial for isolating and protecting the semiconductor components.
 
-- Deposition
+- **Deposition**
 Deposition involves adding or "depositing" thin films of various materials (such as metals or insulators) onto the wafer's surface. These films serve as the building blocks for the creation of electronic components.
 
-- Lithography
+- **Lithography**
 Lithography is a critical step for defining the precise patterns and structures on the wafer's surface. It involves transferring a mask pattern onto the photoresist-coated wafer, allowing selective material removal in subsequent steps.
 
-- Etching
+- **Etching**
 Etching is used to remove specific material layers from the wafer's surface, precisely following the patterns defined in the previous lithography step. It is often done using chemical or plasma processes.
 
 - Ion Implantation
