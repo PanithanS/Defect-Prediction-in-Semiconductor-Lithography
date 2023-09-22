@@ -39,12 +39,12 @@ The chip circuit pattern is made using lithography, which creates precise and so
 Therefore, to optimize manufacturing yield by focusing on the lithography process, it is required to explore the relationship between light exposure parameters and the die-chips yields.
 
 # Problem visualization with data for the exposure parameters and die chips
-The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as the two axis variables and uses different colors for the two labels (Die chips/Good chips). 
-
-**Purpose of this work** is to classify the data between die-chips and good chips using machine-learning models
+The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as the two axis variables and uses different colors for the two labels (Die chips/Good chips).
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
 
+# Results: defect prediction with Multilayer Perceptron (MLP), Supporting Vector Machine(SVM), and Gaussian Process(GP)
+In this work, we build several models that predict the die-chips and good chips using machine learning.
 
 ## Reference
 - Güler, Sila. "Bayesian optimization for lithography process control strategy selection: optimal control advisor." (2020).
