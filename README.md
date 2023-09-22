@@ -9,10 +9,10 @@ Over the past few decades, electronic devices such as computers, tablets, and sm
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2cd32c31-cbe4-467e-b74b-80cc5b0230e0)
 
 - Wafer manufacturing
-- Oxidation process
+- Wafer oxidation 
+- Deposition 
 - Lithography
-- Etching process
-- Deposition process
+- Etching 
 - Ion implantation
 
 Chips are made using lithography, which involves creating intricate patterns on a silicon wafer using masks. This process is essential for manufacturing microchips used in various electronic devices. Lithography uses light to transfer these patterns onto the wafer through masks, allowing for the precise creation of transistors and interconnections that make up the integrated circuit. This precise and sophisticated patterning is crucial to make the chip function correctly.
