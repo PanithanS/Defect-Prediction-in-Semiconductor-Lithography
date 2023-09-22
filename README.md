@@ -49,6 +49,9 @@ In this work, we build several models that predict the die-chips and good chips 
 - Supporting Vector Machine(SVM)
 - Gaussian Process(GP)
 
-
-## Reference
+# Inspiration and acknowledgments
+- Practical example from the SPIE short course "Data Analytics and Machine Learning in Semiconductor Manufacturing: Applications for Physical Design, Process and Yield Optimization" by Luigi Capodieci and Jason Cain.
+- https://github.com/jpcain/data-analytics-machine-learning/tree/master
+- 
+# Reference
 - Güler, Sila. "Bayesian optimization for lithography process control strategy selection: optimal control advisor." (2020).
