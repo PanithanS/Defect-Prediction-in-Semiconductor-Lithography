@@ -49,7 +49,7 @@ In our analysis, we use various classifiers provided by the scikit-learn module 
 2. Gaussian Process Classifier (GP): the validation accuracy is 0.97
 3. Supporting Vector Machine(SVM) : he validation accuracy is 0.95
 
-*Overall, this classifier seems to make accurate predictions.
+ Overall, this classifier seems to make accurate predictions.
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/461100d1-72a0-4096-8240-79eb15dc13cc)
 ***The decision boundaries***: We visualized the decision boundaries of each classifier that indicate the area on the 'Focus-Dose' plane where the classifier predicted the yield of 'good chips.'
