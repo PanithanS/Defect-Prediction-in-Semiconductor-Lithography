@@ -41,13 +41,12 @@ Therefore, to optimize manufacturing yield by focusing on the lithography proces
 # Exposure parameters and defective chips
 The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as the two axis variables and uses different colors for the two labels (Die chips/Good chips).
 
-![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/2d617e5e-40fe-4fd5-9532-a37f8c729c44)
+![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/fe352cbb-2be3-47f5-9e72-0bcd7d499931)
 
 # Results: defect prediction using machine learning
 In this work, we build several models that predict the die-chips and good chips using machine learning.
 - Multilayer Perceptron (MLP)
-- Supporting Vector Machine(SVM)
-- Gaussian Process(GP)
+![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/b446bbdf-04b7-4a5e-9cde-d389fb28df33)
 
 # Inspiration and acknowledgments
 - Practical example from the SPIE short course "Data Analytics and Machine Learning in Semiconductor Manufacturing: Applications for Physical Design, Process and Yield Optimization" by Luigi Capodieci and Jason Cain.
