@@ -49,7 +49,7 @@ In our analysis, we use various classifiers provided by the scikit-learn module 
 2. Gaussian Process Classifier (GP)
 3. Supporting Vector Machine(SVM)
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/461100d1-72a0-4096-8240-79eb15dc13cc)
-We visualized the decision boundaries of each classifier that indicate the area on the 'Focus-Dose' plane where the classifier predicted the yield of 'good chips.'
+***The decision boundaries***: We visualized the decision boundaries of each classifier that indicate the area on the 'Focus-Dose' plane where the classifier predicted the yield of 'good chips.'
 
 ### Application
 According to the decision boundaries, we aim to optimize the lithography process parameter, ensuring it falls within the area associated with the successful 'good chip' that we predicted. This approach can enhance manufacturing yield and allows us to fine-tune the exposure parameter for optimal, high-quality chip production.
