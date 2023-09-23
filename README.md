@@ -44,7 +44,8 @@ The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/fe352cbb-2be3-47f5-9e72-0bcd7d499931)
 
 # Results: defect prediction using machine learning
-In this work, we build several models that predict the die-chips and good chips using machine learning.
+In our analysis, we use various classifiers provided by the scikit-learn module to predict the defective chip yield from the exposure parameters. We visualized the decision boundaries of each classifier that indicate the area on the "Focus-Dose" plane where the classifier predicted the yield of 'good chips.' Accordingly, we aim to optimize the exposure parameter, ensuring it falls within the area associated with the successful 'good chip' that we predicted. This approach can enhance manufacturing yield and allows us to fine-tune the exposure parameter for optimal, high-quality chip production.
+
 1. Multilayer Perceptron (MLP)
 2. Gaussian Process Classifier (GP)
 3. Supporting Vector Machine(SVM)
