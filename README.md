@@ -46,7 +46,7 @@ The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as 
 # Results: defect prediction using machine learning
 In this work, we build several models that predict the die-chips and good chips using machine learning.
 - Multilayer Perceptron (MLP)
-![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/b446bbdf-04b7-4a5e-9cde-d389fb28df33)
+- ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/b446bbdf-04b7-4a5e-9cde-d389fb28df33)
 
 # Inspiration and acknowledgments
 - Practical example from the SPIE short course "Data Analytics and Machine Learning in Semiconductor Manufacturing: Applications for Physical Design, Process and Yield Optimization" by Luigi Capodieci and Jason Cain.
