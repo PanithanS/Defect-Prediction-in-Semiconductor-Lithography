@@ -38,6 +38,7 @@ The chip circuit pattern is made using lithography, which creates precise and so
 Therefore, to optimize manufacturing yield by focusing on the lithography process, it is required to explore the relationship between light exposure parameters and the good/die chips yields.
 
 # Dataset: exposure parameters and 'die chip'
+- Dataset ".csv" files that we use in this work can be downloaded from https://github.com/jpcain/data-analytics-machine-learning/tree/master 
 The scatter plot demonstrates the exposure energy, i.e., Dose (mJ), and focal length, i.e., Focus (nm) as the two axis variables, which we use different colors as labels (Die chips/Good chips).
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/fe352cbb-2be3-47f5-9e72-0bcd7d499931)
