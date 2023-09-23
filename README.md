@@ -45,9 +45,11 @@ The scatter plot demonstrates the exposure energy (mJ) and focal length (nm) as 
 
 # Results: defect prediction using machine learning
 In our analysis, we use various classifiers provided by the scikit-learn module to predict the defective chip yield from the exposure parameters. 
-1. Multilayer Perceptron (MLP)
-2. Gaussian Process Classifier (GP)
-3. Supporting Vector Machine(SVM)
+1. Multilayer Perceptron (MLP): the validation accuracy is 0.97
+2. Gaussian Process Classifier (GP): the validation accuracy is 0.97
+3. Supporting Vector Machine(SVM) : he validation accuracy is 0.95
+Overall, this classifier seems to make accurate predictions.
+
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/461100d1-72a0-4096-8240-79eb15dc13cc)
 ***The decision boundaries***: We visualized the decision boundaries of each classifier that indicate the area on the 'Focus-Dose' plane where the classifier predicted the yield of 'good chips.'
 
