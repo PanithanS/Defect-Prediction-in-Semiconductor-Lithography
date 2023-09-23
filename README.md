@@ -48,7 +48,7 @@ In this work, we build several models that predict the die-chips and good chips 
 1. Multilayer Perceptron (MLP)
 2. Gaussian Process Classifier (GP)
 3. Supporting Vector Machine(SVM)
-![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/5e616d15-5ab8-42fe-9d14-2774d103f8b3)
+![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/461100d1-72a0-4096-8240-79eb15dc13cc)
 
 # Inspiration and acknowledgments
 - Practical example from the SPIE short course "Data Analytics and Machine Learning in Semiconductor Manufacturing: Applications for Physical Design, Process and Yield Optimization" by Luigi Capodieci and Jason Cain.
