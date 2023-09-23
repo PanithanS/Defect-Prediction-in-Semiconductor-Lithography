@@ -59,7 +59,7 @@ According to the decision boundaries, we aim to optimize the lithography process
 
 # Inspiration and acknowledgments
 - Practical example from the SPIE short course "Data Analytics and Machine Learning in Semiconductor Manufacturing: Applications for Physical Design, Process and Yield Optimization" by Luigi Capodieci and Jason Cain.
-- https://github.com/jpcain/data-analytics-machine-learning/tree/master
+- Inspired by: https://github.com/jpcain/data-analytics-machine-learning/tree/master
 - Lithography principles: https://www.asml.com/en/technology/lithography-principles
 # Reference
 - Güler, Sila. "Bayesian optimization for lithography process control strategy selection: optimal control advisor." (2020).
