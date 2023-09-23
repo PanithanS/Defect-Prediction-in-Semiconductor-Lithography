@@ -39,7 +39,7 @@ Therefore, to optimize manufacturing yield by focusing on the lithography proces
 
 # Dataset: exposure parameters and 'die chip'
 The dataset ".csv" files that we use in this work can be downloaded from https://github.com/jpcain/data-analytics-machine-learning/tree/master.
-Here, We do a scatter plot demonstrating the exposure energy, i.e., Dose (mJ), and focal length, i.e., Focus (nm) as the two axis variables, which we use different colors as labels (Die chips/Good chips).
+Here, we do a scatter plot demonstrating the exposure energy, i.e., Dose (mJ), and focal length, i.e., Focus (nm) as the two axis variables, which we use different colors as labels (Die chips/Good chips).
 
 ![image](https://github.com/PanithanS/Defect-Prediction-in-Semiconductor-Lithography/assets/83627892/fe352cbb-2be3-47f5-9e72-0bcd7d499931)
 
