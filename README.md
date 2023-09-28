@@ -47,7 +47,7 @@ Here, we do a scatter plot demonstrating the exposure energy, i.e., Dose (mJ), a
 In our analysis, we use various classifiers provided by the scikit-learn module to predict the defective chip yield from the exposure parameters. 
 1. Multilayer Perceptron (MLP): the validation accuracy is 0.97
 2. Gaussian Process Classifier (GP): the validation accuracy is 0.97
-3. Supporting Vector Machine(SVM) : he validation accuracy is 0.95
+3. Supporting Vector Machine(SVM) : the validation accuracy is 0.95
 
  Overall, this classifier seems to make accurate predictions.
 
